@@ -1,0 +1,11 @@
+{
+  "name": "MicBoostExtreme",
+  "description": "Extreme mic boost with Gain, Bass, Distortion and Overdrive presets including EXTREME 💀",
+  "authors": [
+    {
+      "name": "hateopalts-coder",
+      "id": "0"
+    }
+  ],
+  "main": "index.js"
+}
